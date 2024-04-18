@@ -6,12 +6,15 @@
   }
   
   /* Navbar started */
+
   
   nav {
     background-color: #19b9ff;
     height: 70px;
   }
-  
+  .font-bigg{
+    font-size: 25px;
+  }
   body #bg-body {
     background-color: lawngreen;
   }
@@ -145,8 +148,8 @@
   
   .fa-brands {
     color: #ffffff;
-    font-size: 22px;
-    padding: 8px;
+    font-size: 23px;
+    padding: 9px;
   }
   
   .text-purple {
