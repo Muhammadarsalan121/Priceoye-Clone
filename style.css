@@ -28,13 +28,13 @@
   
   .button {
     border: 1px solid #ffffff;
+    border-radius: 5px;
   }
   
   .buttons-group .btn-login {
     padding-right: 15px;
   }
   
-  /* Navbar started */
   
   .items img {
     width: 50px;
